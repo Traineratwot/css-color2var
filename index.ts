@@ -56,12 +56,13 @@ const COLORS = new Colors();
 
 	const rgbRegex  = new RegExp("(rgb)\\(?(\\s*[01]?\\d\\d?|2[0-4]\\d|25[0-5])(\\W+)([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\W+(([01]?\\d\\d?|2[0-4]\\d|25[0-5]))\\)", 'gmui')
 	const rgbaRegex = new RegExp("(rgba)\\(?(\\s*[01]?\\d\\d?|2[0-4]\\d|25[0-5])(\\W+)([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\W+(([01]?\\d\\d?|2[0-4]\\d|25[0-5]))\\W+(([01]?\\d\\d?|2[0-4]\\d|25[0-5]))\\)", 'gmui')
+
 	const hslRegex  = new RegExp("hsl\\(\\s*(\\d+)\\s*,\\s*(\\d+(?:\\.\\d+)?%)\\s*,\\s*(\\d+(?:\\.\\d+)?%)\\)", 'gmui')
 	const hslaRegex = new RegExp("hsla\\(\\s*(\\d+)\\s*,\\s*(\\d+(?:\\.\\d+)?%)\\s*,\\s*(\\d+(?:\\.\\d+)?%),\\s*(\\d+(?:\\.\\d+)?%)\\)", 'gmui')
 
 	const {action, folder} = await prompts([
 											   {name: 'action', type: 'select', message: "Action: parse or replace", choices: [{title: 'parse', value: 'parse'}, {title: 'replace', value: 'replace'}]},
-											   {name: 'folder', type: 'text', message: "Folder", initial: "C:\\Projects\\css-color2var\\test"}
+											   {name: 'folder', type: 'text', message: "Folder", initial: "."}
 										   ]);
 	if (action === 'parse') {
 		const {minCount} = await prompts([

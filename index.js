@@ -62,7 +62,7 @@ const COLORS = new Colors();
     const hslaRegex = new RegExp("hsla\\(\\s*(\\d+)\\s*,\\s*(\\d+(?:\\.\\d+)?%)\\s*,\\s*(\\d+(?:\\.\\d+)?%),\\s*(\\d+(?:\\.\\d+)?%)\\)", 'gmui');
     const { action, folder } = yield prompts([
         { name: 'action', type: 'select', message: "Action: parse or replace", choices: [{ title: 'parse', value: 'parse' }, { title: 'replace', value: 'replace' }] },
-        { name: 'folder', type: 'text', message: "Folder", initial: "C:\\Projects\\css-color2var\\test" }
+        { name: 'folder', type: 'text', message: "Folder", initial: "." }
     ]);
     if (action === 'parse') {
         const { minCount } = yield prompts([
