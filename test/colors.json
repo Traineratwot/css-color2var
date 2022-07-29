@@ -1,0 +1,1547 @@
+{
+  "#FFFFFFFF": {
+    "count": 336,
+    "varName": "",
+    "values": [
+      "rgb(255,255,255)",
+      "#fff",
+      "#ffffff"
+    ]
+  },
+  "#00FFFFFF": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "rgb(0, 255, 255)",
+      "#00FFFFFF"
+    ]
+  },
+  "#0D6EFDFF": {
+    "count": 35,
+    "varName": "",
+    "values": [
+      "#0d6efd"
+    ]
+  },
+  "#6610F2FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#6610f2"
+    ]
+  },
+  "#6F42C1FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#6f42c1"
+    ]
+  },
+  "#D63384FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#d63384"
+    ]
+  },
+  "#DC3545FF": {
+    "count": 25,
+    "varName": "",
+    "values": [
+      "#dc3545"
+    ]
+  },
+  "#FD7E14FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#fd7e14"
+    ]
+  },
+  "#FFC107FF": {
+    "count": 17,
+    "varName": "",
+    "values": [
+      "#ffc107"
+    ]
+  },
+  "#198754FF": {
+    "count": 25,
+    "varName": "",
+    "values": [
+      "#198754"
+    ]
+  },
+  "#20C997FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#20c997"
+    ]
+  },
+  "#0DCAF0FF": {
+    "count": 17,
+    "varName": "",
+    "values": [
+      "#0dcaf0"
+    ]
+  },
+  "#6C757DFF": {
+    "count": 34,
+    "varName": "",
+    "values": [
+      "#6c757d"
+    ]
+  },
+  "#343A40FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#343a40"
+    ]
+  },
+  "#F8F9FAFF": {
+    "count": 18,
+    "varName": "",
+    "values": [
+      "#f8f9fa"
+    ]
+  },
+  "#212529FF": {
+    "count": 41,
+    "varName": "",
+    "values": [
+      "#212529"
+    ]
+  },
+  "#FCF8E3FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#fcf8e3"
+    ]
+  },
+  "#0A58CAFF": {
+    "count": 9,
+    "varName": "",
+    "values": [
+      "#0a58ca"
+    ]
+  },
+  "#DEE2E6FF": {
+    "count": 21,
+    "varName": "",
+    "values": [
+      "#dee2e6"
+    ]
+  },
+  "#CFE2FFFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#cfe2ff"
+    ]
+  },
+  "#C5D7F2FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#c5d7f2"
+    ]
+  },
+  "#000000FF": {
+    "count": 420,
+    "varName": "",
+    "values": [
+      "#000",
+      "#000000"
+    ]
+  },
+  "#BACBE6FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#bacbe6"
+    ]
+  },
+  "#BFD1ECFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#bfd1ec"
+    ]
+  },
+  "#E2E3E5FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#e2e3e5"
+    ]
+  },
+  "#D7D8DAFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#d7d8da"
+    ]
+  },
+  "#CBCCCEFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#cbccce"
+    ]
+  },
+  "#D1D2D4FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#d1d2d4"
+    ]
+  },
+  "#D1E7DDFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#d1e7dd"
+    ]
+  },
+  "#C7DBD2FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#c7dbd2"
+    ]
+  },
+  "#BCD0C7FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#bcd0c7"
+    ]
+  },
+  "#C1D6CCFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#c1d6cc"
+    ]
+  },
+  "#CFF4FCFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#cff4fc"
+    ]
+  },
+  "#C5E8EFFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#c5e8ef"
+    ]
+  },
+  "#BADCE3FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#badce3"
+    ]
+  },
+  "#BFE2E9FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#bfe2e9"
+    ]
+  },
+  "#FFF3CDFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#fff3cd"
+    ]
+  },
+  "#F2E7C3FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#f2e7c3"
+    ]
+  },
+  "#E6DBB9FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#e6dbb9"
+    ]
+  },
+  "#ECE1BEFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#ece1be"
+    ]
+  },
+  "#F8D7DAFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#f8d7da"
+    ]
+  },
+  "#ECCCCFFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#eccccf"
+    ]
+  },
+  "#DFC2C4FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#dfc2c4"
+    ]
+  },
+  "#E5C7CAFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#e5c7ca"
+    ]
+  },
+  "#ECEDEEFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#ecedee"
+    ]
+  },
+  "#DFE0E1FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#dfe0e1"
+    ]
+  },
+  "#E5E6E7FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#e5e6e7"
+    ]
+  },
+  "#2C3034FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#2c3034"
+    ]
+  },
+  "#373B3EFF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#373b3e"
+    ]
+  },
+  "#323539FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#323539"
+    ]
+  },
+  "#CED4DAFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#ced4da"
+    ]
+  },
+  "#86B7FEFF": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "#86b7fe"
+    ]
+  },
+  "#E9ECEFFF": {
+    "count": 12,
+    "varName": "",
+    "values": [
+      "#e9ecef"
+    ]
+  },
+  "#DDE0E3FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#dde0e3"
+    ]
+  },
+  "#B6D4FEFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#b6d4fe"
+    ]
+  },
+  "#ADB5BDFF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#adb5bd"
+    ]
+  },
+  "#0B5ED7FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#0b5ed7"
+    ]
+  },
+  "#0A53BEFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#0a53be"
+    ]
+  },
+  "#5C636AFF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#5c636a"
+    ]
+  },
+  "#565E64FF": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "#565e64"
+    ]
+  },
+  "#51585EFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#51585e"
+    ]
+  },
+  "#157347FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#157347"
+    ]
+  },
+  "#146C43FF": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "#146c43"
+    ]
+  },
+  "#13653FFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#13653f"
+    ]
+  },
+  "#31D2F2FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#31d2f2"
+    ]
+  },
+  "#25CFF2FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#25cff2"
+    ]
+  },
+  "#3DD5F3FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#3dd5f3"
+    ]
+  },
+  "#FFCA2CFF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#ffca2c"
+    ]
+  },
+  "#FFC720FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#ffc720"
+    ]
+  },
+  "#FFCD39FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#ffcd39"
+    ]
+  },
+  "#BB2D3BFF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#bb2d3b"
+    ]
+  },
+  "#B02A37FF": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "#b02a37"
+    ]
+  },
+  "#A52834FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#a52834"
+    ]
+  },
+  "#F9FAFBFF": {
+    "count": 7,
+    "varName": "",
+    "values": [
+      "#f9fafb"
+    ]
+  },
+  "#1C1F23FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#1c1f23"
+    ]
+  },
+  "#1A1E21FF": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "#1a1e21"
+    ]
+  },
+  "#191C1FFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#191c1f"
+    ]
+  },
+  "#1E2125FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#1e2125"
+    ]
+  },
+  "#495057FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#495057"
+    ]
+  },
+  "#0C63E4FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#0c63e4"
+    ]
+  },
+  "#E7F1FFFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#e7f1ff"
+    ]
+  },
+  "#084298FF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#084298"
+    ]
+  },
+  "#06357AFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#06357a"
+    ]
+  },
+  "#41464BFF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#41464b"
+    ]
+  },
+  "#D3D6D8FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#d3d6d8"
+    ]
+  },
+  "#34383CFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#34383c"
+    ]
+  },
+  "#0F5132FF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#0f5132"
+    ]
+  },
+  "#BADBCCFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#badbcc"
+    ]
+  },
+  "#0C4128FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#0c4128"
+    ]
+  },
+  "#055160FF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#055160"
+    ]
+  },
+  "#B6EFFBFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#b6effb"
+    ]
+  },
+  "#04414DFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#04414d"
+    ]
+  },
+  "#664D03FF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#664d03"
+    ]
+  },
+  "#FFECB5FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#ffecb5"
+    ]
+  },
+  "#523E02FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#523e02"
+    ]
+  },
+  "#842029FF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#842029"
+    ]
+  },
+  "#F5C2C7FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#f5c2c7"
+    ]
+  },
+  "#6A1A21FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#6a1a21"
+    ]
+  },
+  "#636464FF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#636464"
+    ]
+  },
+  "#FEFEFEFF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#fefefe"
+    ]
+  },
+  "#FDFDFEFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#fdfdfe"
+    ]
+  },
+  "#4F5050FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#4f5050"
+    ]
+  },
+  "#141619FF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#141619"
+    ]
+  },
+  "#D3D3D4FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#d3d3d4"
+    ]
+  },
+  "#BCBEBFFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#bcbebf"
+    ]
+  },
+  "#101214FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#101214"
+    ]
+  },
+  "#E5E5E5FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#e5e5e5"
+    ]
+  },
+  "#BEBEBFFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#bebebf"
+    ]
+  },
+  "#F0F0F0FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#f0f0f0"
+    ]
+  },
+  "#D8D8D8FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#d8d8d8"
+    ]
+  },
+  "#C5C5C5FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#c5c5c5"
+    ]
+  },
+  "#DDDDDDFF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#ddd"
+    ]
+  },
+  "#333333FF": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "#333"
+    ]
+  },
+  "#E9E9E9FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#e9e9e9"
+    ]
+  },
+  "#F6F6F6FF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#f6f6f6"
+    ]
+  },
+  "#454545FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#454545"
+    ]
+  },
+  "#CCCCCCFF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "#ccc"
+    ]
+  },
+  "#EDEDEDFF": {
+    "count": 10,
+    "varName": "",
+    "values": [
+      "#ededed"
+    ]
+  },
+  "#2B2B2BFF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#2b2b2b"
+    ]
+  },
+  "#5E9ED6FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#5e9ed6"
+    ]
+  },
+  "#337AB7FF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#337ab7"
+    ]
+  },
+  "#DAD55EFF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#dad55e"
+    ]
+  },
+  "#FFFA90FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#fffa90"
+    ]
+  },
+  "#777620FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#777620"
+    ]
+  },
+  "#F1A899FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#f1a899"
+    ]
+  },
+  "#FDDFDFFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#fddfdf"
+    ]
+  },
+  "#5F3F3FFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#5f3f3f"
+    ]
+  },
+  "#AAAAAAFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#aaa"
+    ]
+  },
+  "#666666FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#666"
+    ]
+  },
+  "#E8E8E8FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#e8e8e8"
+    ]
+  },
+  "#212121FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#212121"
+    ]
+  },
+  "#E0E0E0FF": {
+    "count": 9,
+    "varName": "",
+    "values": [
+      "#e0e0e0"
+    ]
+  },
+  "#DBDBDBFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#dbdbdb"
+    ]
+  },
+  "#999999FF": {
+    "count": 25,
+    "varName": "",
+    "values": [
+      "#999"
+    ]
+  },
+  "#555555FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#555"
+    ]
+  },
+  "#777777FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#777"
+    ]
+  },
+  "#3FB8AFFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#3fb8af"
+    ]
+  },
+  "#D9D9D9FF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#d9d9d9"
+    ]
+  },
+  "#EBEBEBFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#ebebeb"
+    ]
+  },
+  "#BBBBBBFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#bbb"
+    ]
+  },
+  "#E8E7E6FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#e8e7e6"
+    ]
+  },
+  "#B8B8B8FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#b8b8b8"
+    ]
+  },
+  "#E7A43FFF": {
+    "count": 28,
+    "varName": "",
+    "values": [
+      "#e7a43f"
+    ]
+  },
+  "#FF4D00FF": {
+    "count": 43,
+    "varName": "",
+    "values": [
+      "#ff4d00"
+    ]
+  },
+  "#B57C26FF": {
+    "count": 12,
+    "varName": "",
+    "values": [
+      "#b57c26"
+    ]
+  },
+  "#FDF4E8FF": {
+    "count": 22,
+    "varName": "",
+    "values": [
+      "#fdf4e8"
+    ]
+  },
+  "#C4C4C4FF": {
+    "count": 35,
+    "varName": "",
+    "values": [
+      "#c4c4c4"
+    ]
+  },
+  "#F3CB7EFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#f3cb7e"
+    ]
+  },
+  "#8F4114FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#8f4114"
+    ]
+  },
+  "#FFF500FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#fff500"
+    ]
+  },
+  "#8436D2FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#8436d2"
+    ]
+  },
+  "#23972EFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#23972e"
+    ]
+  },
+  "#FE7BC9FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#fe7bc9"
+    ]
+  },
+  "#00D1FFFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#00d1ff"
+    ]
+  },
+  "#FF8A00FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#ff8a00"
+    ]
+  },
+  "#1100CFFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#1100cf"
+    ]
+  },
+  "#2399E2FF": {
+    "count": 8,
+    "varName": "",
+    "values": [
+      "#2399e2"
+    ]
+  },
+  "#EEEEEEFF": {
+    "count": 15,
+    "varName": "",
+    "values": [
+      "#eee"
+    ]
+  },
+  "#F8D49EFF": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "#f8d49e"
+    ]
+  },
+  "#111737FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#111737"
+    ]
+  },
+  "#0CBF42FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#0cbf42"
+    ]
+  },
+  "#8D8D8DFF": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "#8d8d8d"
+    ]
+  },
+  "#919191FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#919191"
+    ]
+  },
+  "#350204FF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#350204"
+    ]
+  },
+  "#DD0A0CFF": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "#dd0a0c"
+    ]
+  },
+  "#FFFFFF00": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "rgba(255, 255, 255, 0)",
+      "rgba(255,255,255,0)"
+    ]
+  },
+  "#0D6EFD40": {
+    "count": 9,
+    "varName": "",
+    "values": [
+      "rgba(13,110,253,.25)"
+    ]
+  },
+  "#00000040": {
+    "count": 6,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.25)"
+    ]
+  },
+  "#198754E6": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(25,135,84,.9)"
+    ]
+  },
+  "#19875440": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "rgba(25,135,84,.25)"
+    ]
+  },
+  "#DC3545E6": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(220,53,69,.9)"
+    ]
+  },
+  "#DC354540": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "rgba(220,53,69,.25)"
+    ]
+  },
+  "#3184FD80": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(49,132,253,.5)"
+    ]
+  },
+  "#828A9180": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(130,138,145,.5)"
+    ]
+  },
+  "#3C996E80": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(60,153,110,.5)"
+    ]
+  },
+  "#0BACCC80": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(11,172,204,.5)"
+    ]
+  },
+  "#D9A40680": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(217,164,6,.5)"
+    ]
+  },
+  "#E1536180": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(225,83,97,.5)"
+    ]
+  },
+  "#D3D4D580": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(211,212,213,.5)"
+    ]
+  },
+  "#42464980": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(66,70,73,.5)"
+    ]
+  },
+  "#0D6EFD80": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(13,110,253,.5)"
+    ]
+  },
+  "#6C757D80": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(108,117,125,.5)"
+    ]
+  },
+  "#19875480": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(25,135,84,.5)"
+    ]
+  },
+  "#0DCAF080": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(13,202,240,.5)"
+    ]
+  },
+  "#FFC10780": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(255,193,7,.5)"
+    ]
+  },
+  "#DC354580": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(220,53,69,.5)"
+    ]
+  },
+  "#F8F9FA80": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(248,249,250,.5)"
+    ]
+  },
+  "#21252980": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(33,37,41,.5)"
+    ]
+  },
+  "#00000026": {
+    "count": 9,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.15)"
+    ]
+  },
+  "#FFFFFF26": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.15)"
+    ]
+  },
+  "#000000E6": {
+    "count": 13,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.9)"
+    ]
+  },
+  "#0000008C": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.55)"
+    ]
+  },
+  "#000000B3": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.7)"
+    ]
+  },
+  "#0000004D": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.3)"
+    ]
+  },
+  "#0000001A": {
+    "count": 15,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.1)"
+    ]
+  },
+  "#FFFFFF8C": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.55)"
+    ]
+  },
+  "#FFFFFFBF": {
+    "count": 5,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.75)"
+    ]
+  },
+  "#FFFFFF40": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.25)"
+    ]
+  },
+  "#FFFFFF1A": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.1)"
+    ]
+  },
+  "#00000020": {
+    "count": 6,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.125)"
+    ]
+  },
+  "#00000008": {
+    "count": 2,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.03)"
+    ]
+  },
+  "#FFFFFFD9": {
+    "count": 8,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.85)"
+    ]
+  },
+  "#0000000D": {
+    "count": 3,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.05)"
+    ]
+  },
+  "#00000033": {
+    "count": 15,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.2)"
+    ]
+  },
+  "#00000013": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.075)"
+    ]
+  },
+  "#0000002D": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.175)"
+    ]
+  },
+  "#00000080": {
+    "count": 11,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.5)"
+    ]
+  },
+  "#FFFFFF80": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.5)"
+    ]
+  },
+  "#4444441C": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(68,68,68,.11)"
+    ]
+  },
+  "#00000066": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.4)"
+    ]
+  },
+  "#FFFFFFE6": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.9)"
+    ]
+  },
+  "#000000BF": {
+    "count": 8,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.75)"
+    ]
+  },
+  "#000000D9": {
+    "count": 8,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.85)"
+    ]
+  },
+  "#FFFFFF33": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.2)"
+    ]
+  },
+  "#FFFFFF66": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.4)"
+    ]
+  },
+  "#FFFFFF99": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.6)"
+    ]
+  },
+  "#00000099": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,.6)"
+    ]
+  },
+  "#00000000": {
+    "count": 4,
+    "varName": "",
+    "values": [
+      "rgba(0,0,0,0)"
+    ]
+  },
+  "#0CBF4200": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(12,191,66,0)"
+    ]
+  },
+  "#FFFFFFF2": {
+    "count": 1,
+    "varName": "",
+    "values": [
+      "rgba(255,255,255,.95)"
+    ]
+  }
+}
