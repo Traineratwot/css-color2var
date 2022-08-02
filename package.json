@@ -1,6 +1,6 @@
 {
 	"name": "css-color2var",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "",
 	"repository": {
 		"type": "git",
@@ -12,7 +12,7 @@
 	],
 	"main": "index.js",
 	"engines": {
-		"node": ">=16"
+		"node": ">=14"
 	},
 	"bin": {
 		"color2var": "./index.js"

@@ -69,9 +69,7 @@ const COLORS = new Colors();
             { name: 'minCount', type: 'number', message: "Minimum count colors", min: 1, initial: 1 },
         ]);
         if (typeof folder === 'string') {
-            (0, glob_1.glob)("**/*.css", {
-                cwd: folder
-            }, function (er, files) {
+            const handler = function (er, files) {
                 return __awaiter(this, void 0, void 0, function* () {
                     const PROMISES = [];
                     for (const file of files) {
@@ -131,7 +129,13 @@ const COLORS = new Colors();
                         }
                     }
                 });
-            });
+            };
+            (0, glob_1.glob)("**/*.css", {
+                cwd: folder
+            }, handler);
+            (0, glob_1.glob)("**/*.scss", {
+                cwd: folder
+            }, handler);
         }
     }
     if (action === 'replace') {
@@ -147,9 +151,7 @@ const COLORS = new Colors();
         }
         yield fs.writeFile($RootCssPath, `:root{\n${$rootColors.join("\n")}\n}`);
         console.log($colors);
-        (0, glob_1.glob)("**/*.css", {
-            cwd: folder
-        }, function (er, files) {
+        const handler = function (er, files) {
             return __awaiter(this, void 0, void 0, function* () {
                 for (const file of files) {
                     if (file === "color2var.css") {
@@ -162,7 +164,9 @@ const COLORS = new Colors();
                             for (const color in $colors) {
                                 for (const val of $colors[color].values) {
                                     // @ts-ignore
-                                    string = string.replaceAll(val, `var(--${$colors[color].varName})`);
+                                    for (let i = 0; i <= $colors[color].count + 1; i++) {
+                                        string = string.replace(val, `var(--${$colors[color].varName})`);
+                                    }
                                 }
                             }
                             yield fs.writeFile(path.join(folder, file), string);
@@ -172,7 +176,13 @@ const COLORS = new Colors();
                     yield Promise.all(PROMISES);
                 }
             });
-        });
+        };
+        (0, glob_1.glob)("**/*.css", {
+            cwd: folder
+        }, handler);
+        (0, glob_1.glob)("**/*.scss", {
+            cwd: folder
+        }, handler);
     }
 }))();
 //# sourceMappingURL=index.js.map

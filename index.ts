@@ -69,9 +69,7 @@ const COLORS = new Colors();
 											 {name: 'minCount', type: 'number', message: "Minimum count colors", min: 1, initial: 1},
 										 ]);
 		if (typeof folder === 'string') {
-			glob("**/*.css,**/*.scss", {
-				cwd: folder
-			}, async function (er, files) {
+			const handler = async function (er, files) {
 				const PROMISES = []
 				for (const file of files) {
 					PROMISES.push(new Promise((resolve, reject) => {
@@ -129,7 +127,13 @@ const COLORS = new Colors();
 						require('child_process').exec('start "" "' + path.dirname(resultPath) + '"');
 					}
 				}
-			})
+			}
+			glob("**/*.css", {
+				cwd: folder
+			}, handler)
+			glob("**/*.scss", {
+				cwd: folder
+			}, handler)
 		}
 	}
 	if (action === 'replace') {
@@ -145,9 +149,7 @@ const COLORS = new Colors();
 		}
 		await fs.writeFile($RootCssPath, `:root{\n${$rootColors.join("\n")}\n}`)
 		console.log($colors)
-		glob("**/*.css,**/*.scss", {
-			cwd: folder
-		}, async function (er, files) {
+		const handler = async function (er, files) {
 			for (const file of files) {
 				if (file === "color2var.css") {
 					continue;
@@ -160,7 +162,9 @@ const COLORS = new Colors();
 						for (const color in $colors) {
 							for (const val of $colors[color].values) {
 								// @ts-ignore
-								string = string.replaceAll(val, `var(--${$colors[color].varName})`);
+								for (let i = 0; i <= $colors[color].count + 1; i++) {
+									string = string.replace(val, `var(--${$colors[color].varName})`);
+								}
 							}
 						}
 
@@ -170,6 +174,12 @@ const COLORS = new Colors();
 				}))
 				await Promise.all(PROMISES)
 			}
-		})
+		}
+		glob("**/*.css", {
+			cwd: folder
+		}, handler)
+		glob("**/*.scss", {
+			cwd: folder
+		}, handler)
 	}
 })()
