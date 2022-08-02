@@ -69,7 +69,7 @@ const COLORS = new Colors();
 											 {name: 'minCount', type: 'number', message: "Minimum count colors", min: 1, initial: 1},
 										 ]);
 		if (typeof folder === 'string') {
-			glob("**/*.css", {
+			glob("**/*.css,**/*.scss", {
 				cwd: folder
 			}, async function (er, files) {
 				const PROMISES = []
@@ -145,7 +145,7 @@ const COLORS = new Colors();
 		}
 		await fs.writeFile($RootCssPath, `:root{\n${$rootColors.join("\n")}\n}`)
 		console.log($colors)
-		glob("**/*.css", {
+		glob("**/*.css,**/*.scss", {
 			cwd: folder
 		}, async function (er, files) {
 			for (const file of files) {

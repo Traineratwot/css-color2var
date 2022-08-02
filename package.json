@@ -2,8 +2,8 @@
 	"name": "css-color2var",
 	"version": "1.0.1",
 	"description": "",
-	"repository":{
-		"type":"git",
+	"repository": {
+		"type": "git",
 		"url": "https://github.com/Traineratwot/css-color2var"
 	},
 	"files": [
@@ -11,11 +11,11 @@
 		"./index.js"
 	],
 	"main": "index.js",
-	"engines":      {
-		"node":       ">=16"
+	"engines": {
+		"node": ">=16"
 	},
 	"bin": {
-		"color2var" : "./index.js"
+		"color2var": "./index.js"
 	},
 	"scripts": {
 		"start": "node .",
